@@ -4,5 +4,6 @@ DEMO DESKTOP
 
 UPDATE FROM GITHUB
 
+CHANGES DRIES
 
-Update test - Pieter-Jan Scheir
+Update Pieter-Jan
