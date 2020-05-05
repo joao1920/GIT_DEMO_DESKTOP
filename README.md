@@ -4,4 +4,4 @@ DEMO DESKTOP
 
 UPDATE FROM GITHUB
 
-Test oefening - Arno
+Test oefening / Arno
